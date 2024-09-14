@@ -1,4 +1,4 @@
-## Flipkart-Clone-PHP
+## ShopMaster-Eccommerce-Application
 
 Full Stack Flipkart Clone Using LAMP Stack
 
